@@ -19,7 +19,7 @@ public class HelloController {
 
     @PutMapping()
     public String putHello() {
-        return "Put Hello World";
+        return "Put Hello World ";
     }
 
     @DeleteMapping()
